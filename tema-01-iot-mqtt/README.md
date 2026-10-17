@@ -1,4 +1,4 @@
-# Tema 01 – Aplicație IoT cu taskuri periodice, sporadice și aperiodice
+ Tema 01 – Aplicație IoT cu taskuri periodice, sporadice și aperiodice
 
 **Tehnologii:** Java 17+, Maven, MQTT (Eclipse Paho), diagrame UML
 **Termen de predare:** _de stabilit_

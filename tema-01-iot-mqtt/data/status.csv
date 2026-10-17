@@ -1,0 +1,15 @@
+deviceId;timestamp;text
+device-1;1792270340933;OK STATUS periodMs =2000 threshold=28.00
+device-1;1792270375172;ERROR Comanda necunoscuta
+device-1;1792270475114;OK SET_INTERVAL 1000
+device-1;1792270495525;OK SET_THRESHOLD 0.0
+device-1;1792270505314;OK SET_THRESHOLD 29.0
+device-1;1792270529447;ERROR For input string: "abc"
+device-1;1792270535480;ERROR Intervalul trebuie sa fie pozitiv
+device-1;1792270543750;ERROR Comanda necunoscuta
+device-1;1792270728540;ERROR Comanda necunoscuta
+device-1;1792270853571;ERROR Comanda necunoscuta
+device-1;1792270872937;ERROR Comanda necunoscuta
+device-1;1792270891683;OK STATUS periodMs =2000 threshold=28.00
+device-1;1792270907698;OK STATUS periodMs =2000 threshold=28.00
+device-1;1792270910364;OK SET_INTERVAL 1000
